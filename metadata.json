@@ -1,0 +1,6 @@
+{
+  "name": "Smart Marketing AI",
+  "description": "A secure, modern, and high-performance WebView application for Smart Marketing AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
